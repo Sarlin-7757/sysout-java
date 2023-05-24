@@ -1,4 +1,4 @@
-import java.util.*;
+
  class School{
 	int id = 1;
 	String name = "Saint Thomas School";
